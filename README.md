@@ -1,7 +1,7 @@
-# KDD25-X-Fed
+# CIKM26-X-Fed
 
 Official repo for *Learning Personalized and Dynamic Models through Federated
-Early-Exit Network Distillation*, which is under review by KDD 2025.
+Early-Exit Network Distillation*, which is accepted by CIKM 2026.
 
 ## Usage
 ### Guidance

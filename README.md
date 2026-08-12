@@ -1,7 +1,6 @@
 # CIKM26-X-Fed
 
-Official repo for *Learning Personalized and Dynamic Models through Federated
-Early-Exit Network Distillation*, which is accepted by CIKM 2026.
+Official repo for *Federated Personalization of Early-Exit Networks*, which is accepted by CIKM 2026.
 
 ## Usage
 ### Guidance
@@ -30,7 +29,12 @@ TBD
 ## Citation
 If you find X-Fed useful or relevant to your reserach, please kindly cite our paper:
 ```
-TBD
+@inproceedings{liu2026federated,
+  title     = {Federated Personalization of Early-Exit Networks},
+  author    = {Boyi Liu and Zimu Zhou and Cheng Fang and Yongxin Tong},
+  booktitle = {CIKM},
+  year      = {2026}
+}
 ```
 
 ## Acknowledgements
